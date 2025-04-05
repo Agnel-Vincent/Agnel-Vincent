@@ -6,7 +6,6 @@ Hello, I'm Agnel! I'm a Data Science student passionate about web development, d
 - 🔭 I’m currently working on various data science projects.
 - 🌱 Continuously learning and expanding my web development and software engineering knowledge.
 - 💬 Ask me about Python, Java, and Django. I'm always excited to discuss new ideas and technologies.
-- 📫 How to reach me: [Email](mailto:agnelvincentoffcl@gmail.com)
 - ⚡ Fun fact: I enjoy combining my data science skills with web development to create powerful applications.
 
 ## Skills
@@ -21,6 +20,7 @@ Hello, I'm Agnel! I'm a Data Science student passionate about web development, d
 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/agnel-t-vincent-73b123291)
+- [Email](mailto:agnelvincentoffcl@gmail.com)
 
 
 ## Contribution Guidelines
